@@ -1,0 +1,24 @@
+{
+  "name": "LoveLink",
+  "version": "1.0.0",
+  "description": "Initial Commit",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haack/love-link.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haack/love-link/issues"
+  },
+  "homepage": "https://github.com/haack/love-link"
+}
