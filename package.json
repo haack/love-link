@@ -4,7 +4,8 @@
   "description": "Initial Commit",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "mongodb": "^1.4.30"
   },
   "devDependencies": {},
   "scripts": {
