@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.11.2",
-    "mongodb": "^1.4.30"
+    "mongodb": "^1.4.30",
+    "twilio": "^1.10.0"
   },
   "devDependencies": {},
   "scripts": {
